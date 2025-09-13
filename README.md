@@ -1,3 +1,3 @@
 # Blinkit-sales-dashboard
-# Problem Statement
+## Problem Statement
 Blinkit faces challenges in tracking sales performance, customer satisfaction, and inventory distribution across outlets. Without a centralized system, measuring key KPIs like total sales, average sales, items sold, and customer ratings is difficult. Factors such as item type, fat content, outlet size, and location also impact sales but lack proper analysis. This project develops an interactive Power BI dashboard to integrate and process sales data, providing actionable insights. The solution helps management monitor performance, identify opportunities, and make data-driven decisions. 
