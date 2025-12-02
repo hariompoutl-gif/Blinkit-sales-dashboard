@@ -6,3 +6,4 @@ Blinkit faces challenges in tracking sales performance, customer satisfaction, a
 
 ## Steps followed
 
+## Blinkit Sales Dashboard Insights
