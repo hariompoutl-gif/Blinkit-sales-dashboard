@@ -10,24 +10,24 @@ Step 2
 Step 3
 
 ## Blinkit Sales Dashboard Insights
-# 📊 Key Insights
-# High Revenue Drivers:
+#### 📊 Key Insights
+#### High Revenue Drivers:
 Tier 3 cities generated the highest total sales, showing strong demand compared to Tier 1 and Tier 2 locations.
 
-# Top-Selling Categories:
+#### Top-Selling Categories:
 Fruits & Vegetables and Snacks contributed the most to overall sales.
 
-# Clear Pricing Pattern:
+#### Clear Pricing Pattern:
 Maximum items were priced below ₹100, showing Blinkit’s focus on affordable products.
 
-# Customer Ratings:
+#### Customer Ratings:
 Average rating of 3.9 suggests improvement scope in delivery experience and product quality.
 
-# Fat Content Impact:
+#### Fat Content Impact:
 Items with High Fat content formed ~65% of total orders, indicating strong customer preference toward these products.
 
-# Outlet Performance: 
+#### Outlet Performance: 
 Supermarket-type outlets performed better overall (based on sales distribution visualization).
 
-# Demand Trend:
+#### Demand Trend:
 Total sales grew consistently over time, showing rising customer engagement.
