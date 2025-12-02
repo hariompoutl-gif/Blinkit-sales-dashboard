@@ -6,3 +6,4 @@ Blinkit faces challenges in tracking sales performance, customer satisfaction, a
 
 ## Steps followed
 
+step 1: created a interactive dashboard 
