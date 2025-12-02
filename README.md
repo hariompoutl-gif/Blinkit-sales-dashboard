@@ -5,9 +5,27 @@ Blinkit faces challenges in tracking sales performance, customer satisfaction, a
 ## Powerbi Link - 
 
 ## Steps followed
-Step 1 
-Step 2 
-Step 3
+
+Data Walkthrough
+
+Data Connection
+
+Data Cleaning / Quality Check
+
+Data Modeling
+
+Data Processing
+
+DAX Calculations
+
+Dashboard Layouting
+
+Charts Development and Formatting
+
+Dashboard / Report Development
+
+Insights Generation
+
 
 ## Blinkit Sales Dashboard Insights
 #### 📊 Key Insights
