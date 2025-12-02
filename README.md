@@ -6,7 +6,7 @@ Blinkit faces challenges in tracking sales performance, customer satisfaction, a
 
 ## Steps followed
 
-1.Data Walkthrough
+1. Data Walkthrough
 
 2. Data Connection
 
