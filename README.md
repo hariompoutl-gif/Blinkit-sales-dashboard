@@ -6,25 +6,25 @@ Blinkit faces challenges in tracking sales performance, customer satisfaction, a
 
 ## Steps followed
 
-Data Walkthrough
+1.Data Walkthrough
 
-Data Connection
+2. Data Connection
 
-Data Cleaning / Quality Check
+3. Data Cleaning / Quality Check
 
-Data Modeling
+4. Data Modeling
 
-Data Processing
+5. Data Processing
 
-DAX Calculations
+6. DAX Calculations
 
-Dashboard Layouting
+7. Dashboard Layouting
 
-Charts Development and Formatting
+8. Charts Development and Formatting
 
-Dashboard / Report Development
+9. Dashboard / Report Development
 
-Insights Generation
+10. Insights Generation
 
 
 ## Blinkit Sales Dashboard Insights
