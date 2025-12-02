@@ -31,5 +31,5 @@ Supermarket-type outlets performed better overall (based on sales distribution v
 
 #### Demand Trend:
 Total sales grew consistently over time, showing rising customer engagement.
-
+***
 By analyzing these insights, Blinkit can enhance strategic planning, optimize regional performance, and improve overall customer satisfaction.
